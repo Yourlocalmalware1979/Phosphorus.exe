@@ -1,2 +1,1 @@
-# Phosphorus.exe
-Phosphorus.exe by snare (NO SKID)
+Phosphorus.exe by Snare
